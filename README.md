@@ -14,6 +14,9 @@
 |--------|-------------|-----------|----------|
 |Sngular|Java,VR,Devops,PHP,Ecommerce|Badajoz|[Web](https://sngular.team)|
 ## Barcelona (Cataluña)
+| Nombre | Tecnologias | Direccion | Web |
+|--------|-------------|-----------|----------|
+|Atrapalo|PHP,Nodejs,Go,Javascript|Barcelona|[Web](https://www.atrapalo.com)|
 ## Burgos (Castilla y León)
 ## Cáceres (Extremadura)
 ## Cádiz (Andalucía)
@@ -64,6 +67,7 @@
 |--------|-------------|-----------|----------|
 |QaShop|PHP|Dos Hermanas|[Web](http://home.qashops.com/)|
 |Sngular|Java,VR,Devops,PHP,Ecommerce|Sevilla|[Web](https://sngular.team)|
+|Emergya|Java,PHP,Django,Drupal|Sevilla|[Web](https://www.emergya.com/es)|
 ## Soria (Castilla y León)
 ## Tarragona (Cataluña)
 ## Tenerife (Canarias)
