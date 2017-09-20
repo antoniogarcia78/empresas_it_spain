@@ -20,7 +20,7 @@
 ## Córdoba (Andalucía)
 | Nombre | Tecnologias | Direccion | Web |
 |--------|-------------|-----------|----------|
-|Sopinet Software|Android,iOS,PHP|San Fernando|[Web](https://sopinet.com/) [Twitter](https://twitter.com/SopinetSoftware)
+|Sopinet|PHP, iOS, Android|Córdoba|[Web](https://sopinet.com/)
 ## Cuenca (Castilla-La Mancha)
 ## Gerona (Girona) (Cataluña)
 ## Granada (Andalucía)
