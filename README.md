@@ -21,6 +21,7 @@
 | Nombre | Tecnologias | Direccion | Web |
 |--------|-------------|-----------|----------|
 |Audiense|JavaScript|Córdoba|[Web](https://www.audiense.com/)
+|Sopinet|PHP, iOS, Android|Córdoba|[Web](https://sopinet.com/)
 ## Cuenca (Castilla-La Mancha)
 ## Gerona (Girona) (Cataluña)
 ## Granada (Andalucía)
