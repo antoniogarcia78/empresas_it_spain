@@ -49,7 +49,8 @@
 |Autentia|Java|San Fernando de Henares|[Web](https://www.autentia.com/)
 |SumaCRM|PHP|Madrid|[Web](https://www.sumacrm.com/)|
 |Devtia|PHP,Symfony|Madrid|[Web](https://devtia.com/)|
-|Sngular|Java,VR,Devops,PHP,Ecommerce|Madrid|[Web](https://sngular.team)
+|Sngular|Java,VR,Devops,PHP,Ecommerce|Madrid|[Web](https://sngular.team)|
+|Stay|PHP,Javascript,Nodejs|Madrid|https://www.stay-app.com/|
 ## Málaga (Andalucía)
 ## Murcia (Región de Murcia)
 ## Navarra (Comunidad Foral de Navarra)
