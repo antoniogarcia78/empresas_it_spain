@@ -5,8 +5,14 @@
 ## Alicante (Comunidad Valenciana)
 ## Almería (Andalucía)
 ## Asturias (Principado de Asturias)
+| Nombre | Tecnologias | Direccion | Web |
+|--------|-------------|-----------|----------|
+|Sngular|Java,VR,Devops,PHP,Ecommerce|Oviedo|[Web](https://sngular.team)|
 ## Ávila (Castilla y León)
 ## Badajoz (Extremadura)
+| Nombre | Tecnologias | Direccion | Web |
+|--------|-------------|-----------|----------|
+|Sngular|Java,VR,Devops,PHP,Ecommerce|Badajoz|[Web](https://sngular.team)|
 ## Barcelona (Cataluña)
 ## Burgos (Castilla y León)
 ## Cáceres (Extremadura)
@@ -43,6 +49,7 @@
 |Autentia|Java|San Fernando de Henares|[Web](https://www.autentia.com/)
 |SumaCRM|PHP|Madrid|[Web](https://www.sumacrm.com/)|
 |Devtia|PHP,Symfony|Madrid|[Web](https://devtia.com/)|
+|Sngular|Java,VR,Devops,PHP,Ecommerce|Madrid|[Web](https://sngular.team)
 ## Málaga (Andalucía)
 ## Murcia (Región de Murcia)
 ## Navarra (Comunidad Foral de Navarra)
@@ -54,7 +61,8 @@
 ## Sevilla (Andalucía)
 | Nombre | Tecnologias | Direccion | Web |
 |--------|-------------|-----------|----------|
-|QaShop|PHP|Dos Hermanas|[Web](http://home.qashops.com/)
+|QaShop|PHP|Dos Hermanas|[Web](http://home.qashops.com/)|
+|Sngular|Java,VR,Devops,PHP,Ecommerce|Sevilla|[Web](https://sngular.team)|
 ## Soria (Castilla y León)
 ## Tarragona (Cataluña)
 ## Tenerife (Canarias)
