@@ -33,7 +33,7 @@
 ## Madrid (Comunidad de Madrid)
 | Nombre | Tecnologias | Direccion | Web |
 |--------|-------------|-----------|----------|
-|Autentia|Java|Avda. de Castilla 1, oficina 21B.Edificio BestPoint, Segunda Planta,San Fernando de Henares|[https://www.autentia.com/|](https://www.autentia.com/)
+|Autentia|Java|Avda. de Castilla 1, oficina 21B.Edificio BestPoint, Segunda Planta,San Fernando de Henares|[https://www.autentia.com/](https://www.autentia.com/)
 ## Málaga (Andalucía)
 ## Murcia (Región de Murcia)
 ## Navarra (Comunidad Foral de Navarra)
