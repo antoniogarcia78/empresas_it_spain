@@ -41,6 +41,8 @@
 | Nombre | Tecnologias | Direccion | Web |
 |--------|-------------|-----------|----------|
 |Autentia|Java|San Fernando de Henares|[Web](https://www.autentia.com/)
+|SumaCRM|PHP|Madrid|[Web](https://www.sumacrm.com/)|
+|Devtia|PHP,Symfony|Madrid|[Web](https://devtia.com/)|
 ## Málaga (Andalucía)
 ## Murcia (Región de Murcia)
 ## Navarra (Comunidad Foral de Navarra)
@@ -61,5 +63,9 @@
 ## Valencia (Comunidad Valenciana)
 ## Valladolid (Castilla y León)
 ## Vizcaya (Bizkaia) (País Vasco)
+| Nombre | Tecnologias | Direccion | Web |
+|--------|-------------|-----------|----------|
+|Lin3s|Desarrollo Web,Marketing online|Bilbao|[Web](http://www.lin3s.com/)|
 ## Zamora (Castilla y León)
 ## Zaragoza (Aragon)
+
