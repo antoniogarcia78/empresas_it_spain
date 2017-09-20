@@ -18,6 +18,9 @@
 ## Castellón (Comunidad Valenciana)
 ## Ciudad Real (Castilla-La Mancha)
 ## Córdoba (Andalucía)
+| Nombre | Tecnologias | Direccion | Web |
+|--------|-------------|-----------|----------|
+|Sopinet Software|Android,iOS,PHP|San Fernando|[Web](https://sopinet.com/) [Twitter](https://twitter.com/SopinetSoftware)
 ## Cuenca (Castilla-La Mancha)
 ## Gerona (Girona) (Cataluña)
 ## Granada (Andalucía)
