@@ -21,6 +21,7 @@
 | Nombre | Tecnologias | Direccion | Web |
 |--------|-------------|-----------|----------|
 |Atrapalo|PHP,Nodejs,Go,Javascript|Barcelona|[Web](https://www.atrapalo.com)|
+|Nuclio|Venture builder|Barcelona|[Web](https://www.nuclio.com/es/)|
 ## Burgos (Castilla y León)
 ## Cáceres (Extremadura)
 ## Cádiz (Andalucía)
