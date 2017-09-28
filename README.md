@@ -42,6 +42,9 @@
 ## Cuenca (Castilla-La Mancha)
 ## Gerona (Girona) (Cataluña)
 ## Granada (Andalucía)
+| Nombre | Tecnologias | Direccion | Contacto |
+|--------|-------------|-----------|----------|
+|SI2 Soluciones|Wordpress,Android,iOS|Granada|https://si2.info/|
 ## Guadalajara (Castilla-La Mancha)
 ## Guipúzcoa (Gipuzkoa) (País Vasco)
 ## Huelva (Andalucía)
