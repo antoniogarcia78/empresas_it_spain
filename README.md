@@ -48,6 +48,9 @@
 |SI2 Soluciones|Wordpress,Android,iOS|Granada|https://si2.info/|
 ## Guadalajara (Castilla-La Mancha)
 ## Guipúzcoa (Gipuzkoa) (País Vasco)
+| Nombre | Tecnologias | Direccion | Contacto |
+|--------|-------------|-----------|----------|
+|Xabet||Donostia|Java,Spring,Angular,AWS,Big Data,Machine Learning,|[Web](https://www.xabet.net/)|
 ## Huelva (Andalucía)
 ## Huesca (Aragon)
 ## Islas Baleares (Islas Baleares)
