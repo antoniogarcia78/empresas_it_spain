@@ -72,6 +72,7 @@
 |Stay|PHP,Javascript,Nodejs|Madrid|https://www.stay-app.com/|
 |Acilia Internet|PHP, Symfony, Javascript, Angular, iOS, Android|Madrid|[Web](http://www.acilia.es/)|
 |ASPgems|Rails,Drupal,Spark,Scala|Madrid|[Web](https://www.aspgems.com/)|
+|Liferay|Java, Javascript, Ecommerce, CMS|Madrid|[Web](https://www.liferay.com)|
 ## Málaga (Andalucía)
 ## Murcia (Región de Murcia)
 ## Navarra (Comunidad Foral de Navarra)
@@ -95,6 +96,13 @@
 ## Toledo (Castilla-La Mancha)
 ## Valencia (Comunidad Valenciana)
 ## Valladolid (Castilla y León)
+| Nombre | Tecnologias | Direccion | Contacto |
+|--------|-------------|-----------|----------|
+|Luce|Java, Javascript, PHP|Valladolid|[Web](http://www.luceit.com/)|
+|Códice Software|.NET|Valladolid|[Web](https://www.plasticscm.com/)|
+|mLean|Javascript, Vuejs, Android, iOS|Valladolid|[Web](https://m-lean.com/)|
+|Solid Gear|Javascript, Android, iOS|Valladolid|[Web](https://solidgeargroup.com/)|
+
 ## Vizcaya (Bizkaia) (País Vasco)
 | Nombre | Tecnologias | Direccion | Contacto |
 |--------|-------------|-----------|----------|
