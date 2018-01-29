@@ -10,7 +10,7 @@
 ## Asturias (Principado de Asturias)
 | Nombre | Tecnologias | Direccion | Contacto |
 |--------|-------------|-----------|----------|
-|Sector F8|PHP,Laravel,Ionic|Gijón, Cabueñes|[Web](https://www.sectorf8.com|)
+|Sector F8|PHP,Laravel,Ionic|Gijón, Cabueñes|[Web](https://www.sectorf8.com)|
 |Sngular|Java,VR,Devops,PHP,Ecommerce|Oviedo|[Web](https://sngular.team)|
 ## Ávila (Castilla y León)
 ## Badajoz (Extremadura)
@@ -22,7 +22,7 @@
 |--------|-------------|-----------|----------|
 |Atrapalo|PHP,Nodejs,Go,Javascript|Barcelona|[Web](https://www.atrapalo.com)|
 |Nuclio|Venture builder|Barcelona|[Web](https://www.nuclio.com/es/)|
-|Comalatech|Apps for The Atlassian Platform (Java,Node,React,Javascript)|[Web](https://www.comalatech.com/)|
+|Comalatech|Apps for The Atlassian Platform (Java,Node,React,Javascript)|Barcelona|[Web](https://www.comalatech.com/)|
 ## Burgos (Castilla y León)
 ## Cáceres (Extremadura)
 | Nombre | Tecnologias | Direccion | Contacto |
@@ -102,7 +102,6 @@
 |Códice Software|.NET|Valladolid|[Web](https://www.plasticscm.com/)|
 |mLean|Javascript, Vuejs, Android, iOS|Valladolid|[Web](https://m-lean.com/)|
 |Solid Gear|Javascript, Android, iOS|Valladolid|[Web](https://solidgeargroup.com/)|
-
 ## Vizcaya (Bizkaia) (País Vasco)
 | Nombre | Tecnologias | Direccion | Contacto |
 |--------|-------------|-----------|----------|
