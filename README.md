@@ -56,6 +56,10 @@
 ## Huelva (Andalucía)
 ## Huesca (Aragon)
 ## Islas Baleares (Islas Baleares)
+| Nombre | Tecnologias | Direccion | Contacto |Empleo|Twitter|
+|--------|-------------|-----------|----------|-----|--------|
+|2amigos|PHP,Javascript|Mallorca+World(remote)|[Web](https://www.autentia.com/)|[Empleo](https://twitter.com/tonydspaniard)|[Twitter](https://twitter.com/2AmigOSMA)|
+
 ## Jaén (Andalucía)
 ## La Coruña (A Coruña) (Galicia)
 ## La Rioja (La Rioja)
@@ -66,7 +70,7 @@
 ## Madrid (Comunidad de Madrid)
 | Nombre | Tecnologias | Direccion | Contacto |
 |--------|-------------|-----------|----------|
-|Autentia|Java|San Fernando de Henares|[Web](https://www.autentia.com/)
+|Autentia|Java|San Fernando de Henares|[Web](https://www.autentia.com/)|
 |SumaCRM|PHP|Madrid|[Web](https://www.sumacrm.com/)|
 |Devtia|PHP,Symfony|Madrid|[Web](https://devtia.com/)|
 |Sngular|Java,VR,Devops,PHP,Ecommerce|Madrid|[Web](https://sngular.team)|
