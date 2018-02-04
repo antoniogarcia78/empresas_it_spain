@@ -18,11 +18,12 @@
 |--------|-------------|-----------|----------|
 |Sngular|Java,VR,Devops,PHP,Ecommerce|Badajoz|[Web](https://sngular.team)|
 ## Barcelona (Cataluña)
-| Nombre | Tecnologias | Direccion | Web |
-|--------|-------------|-----------|----------|
-|Atrapalo|PHP,Nodejs,Go,Javascript|Barcelona|[Web](https://www.atrapalo.com)|
-|Nuclio|Venture builder|Barcelona|[Web](https://www.nuclio.com/es/)|
-|Comalatech|Apps for The Atlassian Platform (Java,Node,React,Javascript)|Barcelona|[Web](https://www.comalatech.com/)|
+| Nombre | Tecnologias | Direccion | Web | Empleo| Twitter|
+|--------|-------------|-----------|----------|-----|------|
+|Atrapalo|PHP,Nodejs,Go,Javascript|Barcelona|[Web](https://www.atrapalo.com)|||
+|Nuclio|Venture builder|Barcelona|[Web](https://www.nuclio.com/es/)|||
+|Comalatech|Apps for The Atlassian Platform (Java,Node,React,Javascript)|Barcelona|[Web](https://www.comalatech.com/)|||
+|Soluble Studio|Javascript,React,Redux,React Native|Barcelona|[Web](https://www.solublestudio.com/)|[Empleo](https://www.solublestudio.com/es/we-are-hiring)|[Twitter](https://twitter.com/solublestudio)|
 ## Burgos (Castilla y León)
 ## Cáceres (Extremadura)
 | Nombre | Tecnologias | Direccion | Contacto |
